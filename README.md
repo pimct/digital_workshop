@@ -26,14 +26,11 @@ Students collect real-time data, trigger LED alarms on threshold changes, and di
 ## 📁 Repository Layout
 
 ```
-docs/                      # Lab manuals & appendices
-hardware/                  # Wiring & pinout
-matlab/                    # main.m (acquisition), analysis_examples.m
-matlab/utils/              # helper functions (on path via setup.m)
+utils/                     # helper functions (on path via setup.m)
 workshop/                  # workshop plan & student worksheet
-data/dataset/              # where .mat files are saved (empty in repo)
-.github/ISSUE_TEMPLATE/    # bug/feature templates
-setup.m                    # one-click path setup for MATLAB
+dataset/                   # where .mat files are saved (empty in repo)
+models/                    # where the trained models are saved (empty in repo)
+main.mlx                   # main code
 LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, CITATION.cff
 ```
 
