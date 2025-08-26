@@ -18,8 +18,6 @@ Students collect real-time data, trigger LED alarms on threshold changes, and di
 - **Acquisition script**: real-time readout (3 min @ 2 s), LED alarm on ΔV threshold, guided pauses for Sample runs.
 - **Lab manuals**: full instructor version + easy student version.
 - **Workshop pack**: 3-hour agenda + printable student worksheet.
-- **Post-lab analysis**: baseline/ΔV, **t90**, recovery time, **AUC** examples.
-- **One-line setup**: `setup.m` adds subfolders to MATLAB path.
 
 ---
 
